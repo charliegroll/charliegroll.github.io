@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Charlie Groll",
+    "label": "Programmer",
+    "picture": "",
+    "email": "charliegroll@gmail.com",
+    "phone": "201.787.3253",
+    "website": "",
+    "summary": "Charlie is from New Jersey, born and raised, and got his bachelor’s from Rutgers, the State University of New Jersey. He’s been working at Verizon Wireless since graduation, and he’s looking to bring his experience as a software developer to a new opportunity. While JavaScript is his language of choice, and his current role is as a UI/UX team leader and architect, he was originally hired for full-stack development and has experience designing, implementing, and supporting server-side code. Outside of work, he’s been a volunteer EMT since graduating high school and leads a fairly active life of running, biking, swimming, climbing, and the occasional hiking or backpacking trip.",
+    "location": {
+      "address": "",
+      "postalCode": "08869",
+      "city": "Raritan",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Verizon Wireless",
+      "position": "Lead UI Developer",
+      "website": "https://verizonwireless.com/",
+      "startDate": "2012-06-11",
+      "endDate": "Present",
+      "summary": "I'm working on the eCommerce team to provide a portal for over 1 million people per day to shop for phones, accessories, and wireless service packages. To provide the best experience possible, I work closely with business partners and design teams, test and debug sites for accessibility issues, and oversee a small team to ensure code quality in rapid development cycles.",
+      "highlights": [
+        "Currently leading a team of 5-7 developers",
+        "Have built intimate relationships with business stakeholders and visual designers",
+        "Designed front-end architecture and standards for a team "
+      ]
+    },
+    {
+      "company": "Rutgers University Office of Instructional and Research Technology",
+      "position": "Junior Application Developer",
+      "website": "https://sakai.rutgers.edu/",
+      "startDate": "2011-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Charlie worked on bug fixes and module integrations on Rutgers’s implementation of the open-source CMS known as Sakai, which saw over 40,000 users per week.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Parsippany Volunteer Ambulance Squad",
+      "position": "Lieutenant",
+      "website": "",
+      "startDate": "2008-05-01",
+      "endDate": "Present",
+      "summary": "Emergency Medical Services for the town of Parsippany, NJ",
+      "highlights": [
+        "Experience as a Trustee, on the Grievance Committee, and on the Background Committee"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "area": "Information Technology and Informatics, Psychology, minor in Computer Science",
+      "startDate": "2008-09-01",
+      "endDate": "2012-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "2013 Recognition Award",
+      "date": "",
+      "awarder": "Executive Director of eCommerce, Self-Serve, and Products",
+      "summary": "Awarded for exceptional work on a large-scale, full-site migration of all data and templates related to https://www.verizonwireless.com/support/ onto Adobe CQ5"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SMACSS",
+        "Build tools (Grunt, Gulp, Babel)",
+        "Accessibility",
+        "JSPs"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": [
+        "React/Redux",
+        "Angular 1.3",
+        "Backbone",
+        "jQuery",
+        "ES6"
+      ]
+    },
+    {
+      "name": "Misc.",
+      "level": "",
+      "keywords": [
+        "git",
+        "Bug Tracking (Jira, HP Quality Center)",
+        "Agile/SCRUM",
+        "ATG",
+        "Adobe CQ5 (AEM)",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
