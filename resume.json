@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Charlie Groll",
-    "label": "Programmer",
+    "label": "Software developer",
     "picture": "",
     "email": "charliegroll@gmail.com",
     "phone": "201.787.3253",
@@ -23,11 +23,14 @@
       "website": "https://verizonwireless.com/",
       "startDate": "2012-06-11",
       "endDate": "Present",
-      "summary": "Working on the eCommerce team to provide a portal for over 1 million people per day to shop for phones, accessories, and wireless service packages. Collaborate with business partners and design teams, test and debug sites for accessibility issues, and oversee a small team to ensure code quality in rapid development cycles to provide the best experience possible.",
+      "summary": "Working on the eCommerce team to provide a portal for over 1 million people per day to shop for phones, accessories, and wireless service packages. Collaborate with business partners and UX/visual designers, test and debug sites for accessibility issues, and oversee a small team to ensure code quality in rapid development cycles to provide the best experience possible.",
       "highlights": [
         "Currently leading a team of 5-7 developers",
+        "Designed front-end architecture and standards",
+        "One of three development leads at the forefront of rewriting the entire eCommerce site with React/Redux",
         "Built intimate relationships with business stakeholders and visual designers",
-        "Designed front-end architecture and standards"
+        "Re-architected the UI development stack for MyVerizon with Angular from jQuery/JSP logic",
+        "Optimized MyVerizon static assets workflow with Grunt"
       ]
     },
     {
