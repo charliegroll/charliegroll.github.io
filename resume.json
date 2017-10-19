@@ -6,26 +6,35 @@
     "email": "charliegroll@gmail.com",
     "phone": "201.787.3253",
     "website": "",
-    "summary": "Charlie is from New Jersey, born and raised, and got his bachelor’s from Rutgers, the State University of New Jersey. He’s been working at Verizon Wireless since graduation, and he’s looking to bring his experience as a software developer to a new opportunity. While JavaScript is his language of choice, and his current role is as a UI/UX team leader and architect, he was originally hired for full-stack development and has experience designing, implementing, and supporting server-side code. Outside of work, he’s been a volunteer EMT since graduating high school and leads a fairly active life of running, biking, swimming, climbing, and the occasional hiking or backpacking trip.",
+    "summary": "Charlie is from New Jersey, born and raised, and got his bachelor’s from Rutgers, the State University of New Jersey. He’s currently very happily employeed at Opower/Oracle, where JavaScript is his weapon of choice. Outside of work, he leads a fairly active life of running, biking, swimming, climbing, and the occasional hiking or backpacking trip.",
     "location": {
       "address": "",
-      "postalCode": "08869",
-      "city": "Raritan",
+      "postalCode": "22204",
+      "city": "Arlington",
       "countryCode": "US",
-      "region": "New Jersey"
+      "region": "Virginia"
     },
     "profiles": []
   },
   "work": [
     {
+      "company": "Opower/Oracle",
+      "position": "Senior Web Developer",
+      "website": "https://opower.com",
+      "startDate": "2017-08-04",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "Verizon Wireless",
       "position": "Lead UI Developer and Team Lead",
       "website": "https://verizonwireless.com/",
       "startDate": "2012-06-11",
-      "endDate": "Present",
-      "summary": "Working on the eCommerce team to provide a portal for over 1 million people per day to shop for phones, accessories, and wireless service packages. Collaborate with business partners and UX/visual designers, test and debug sites for accessibility issues, and oversee a small team to ensure code quality in rapid development cycles to provide the best experience possible.",
+      "endDate": "2017-07-28",
+      "summary": "Worked on the eCommerce team to provide a portal for over 1 million people per day to shop for phones, accessories, and wireless service packages. Collaborated with business partners and UX/visual designers, test and debug sites for accessibility issues, and oversee a small team to ensure code quality in rapid development cycles to provide the best experience possible.",
       "highlights": [
-        "Currently leading a team of 5-7 developers",
+        "Led a team of 5-7 developers",
         "Designed front-end architecture and standards",
         "One of three development leads at the forefront of rewriting the entire eCommerce site with React/Redux",
         "Built intimate relationships with business stakeholders and visual designers",
@@ -83,7 +92,7 @@
         "HTML",
         "CSS",
         "SMACSS",
-        "Build tools (Grunt, Gulp, Babel)",
+        "Build tools (Grunt, Gulp, Webpack, Babel)",
         "Accessibility",
         "JSPs"
       ]
@@ -92,8 +101,9 @@
       "name": "Javascript",
       "level": "",
       "keywords": [
-        "React/Redux",
-        "Angular 1.3",
+        "React",
+        "Redux",
+        "Angular 1.6",
         "Backbone",
         "jQuery",
         "ES6"
@@ -104,6 +114,7 @@
       "level": "",
       "keywords": [
         "git",
+        "Github",
         "Bug Tracking (Jira, HP Quality Center)",
         "Agile/SCRUM",
         "ATG",
