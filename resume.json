@@ -23,8 +23,12 @@
       "website": "https://opower.com",
       "startDate": "2017-08-04",
       "endDate": "Present",
-      "summary": "",
-      "highlights": []
+      "summary": "Javascript developer on a small SCRUM team responsible for several core-business web products.",
+      "highlights": [
+        "Written RFCs for development process improvement",
+        // "Designed and implemented javascript development standards"
+        "Mentoring junior developers"
+      ]
     },
     {
       "company": "Verizon Wireless",
@@ -113,6 +117,8 @@
       "name": "Misc.",
       "level": "",
       "keywords": [
+        "Continuous Integration",
+        "Writing unit and browser tests",
         "git",
         "Github",
         "Bug Tracking (Jira, HP Quality Center)",
