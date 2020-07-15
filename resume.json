@@ -6,27 +6,48 @@
     "email": "charliegroll@gmail.com",
     "phone": "201.787.3253",
     "website": "",
-    "summary": "Charlie is from New Jersey, born and raised, and got his bachelor’s from Rutgers, the State University of New Jersey. He’s currently very happily employeed at Opower/Oracle, where JavaScript is his weapon of choice. Outside of work, he leads a fairly active life of running, biking, swimming, climbing, and the occasional hiking or backpacking trip.",
+    "summary": "Charlie is from New Jersey, born and raised, and got his bachelor’s from Rutgers, the State University of New Jersey. He’s currently happily employeed at Opower/Oracle, where Javascript is his weapon of choice. Outside of work, he leads a fairly active life of cycling, running, climbing, volleyballing, and the occasional hiking or backpacking trip.",
     "location": {
       "address": "",
-      "postalCode": "22204",
-      "city": "Arlington",
+      "postalCode": "20010",
+      "city": "Washington",
       "countryCode": "US",
-      "region": "Virginia"
+      "region": "DC"
     },
     "profiles": []
   },
   "work": [
     {
       "company": "Opower/Oracle",
-      "position": "Senior Web Developer",
+      "position": "Senior Web Developer - Web Application Platform",
+      "website": "https://opower.com",
+      "startDate": "2019-07-31",
+      "endDate": "2020-08-01",
+      "summary": "Javascript developer responsible for developing build systems for the Web Product teams and development of a new configuration tool called Symphony.",
+      "highlights": [
+        "Full-stack javascript development for Symphony, a tool built to let clients configure our web products themselves, esentially making the process self-serve.",
+        "Updates to, and maintenance of, various intricate build systems with a mind for backwards-compatibility, developer experience, and product/ecosystem goals",
+        "Creation of a new CSR portal experience to take advantage of the latest build system features",
+        "Changes to the unified Webpack setup",
+        "Active point of contact for platform questions from Delivery Teams, Web Product developers, etc."
+      ]
+    },
+    {
+      "company": "Opower/Oracle",
+      "position": "Senior Web Developer - Web Product",
       "website": "https://opower.com",
       "startDate": "2017-08-04",
-      "endDate": "Present",
+      "endDate": "2019-07-31",
       "summary": "Javascript developer on a small SCRUM team responsible for several core-business web products.",
       "highlights": [
+        "Developed website components for some of the biggest utility websites in the country",
+        "Championed adaptation and migration to React",
+        "Work closely with product owners to turn feature requests into reality",
+        "Written unit, integration, and browser tests and knowing which is right for the job",
+        "Unappointed liaison between the Web Product tribe and Web Platform and Delivery teams",
+        "Led introduction of Redux into the product development stack",
         "Written RFCs for development process improvement",
-        "Mentoring junior developers"
+        "Mentored junior developers"
       ]
     },
     {
@@ -57,6 +78,17 @@
   ],
   "volunteer": [
     {
+      "organization": "Urban Rivers",
+      "position": "Web Developer",
+      "website": "https://patagonia.catchafire.org/volunteer/43855/urban-rivers--flexible-web-development-support/",
+      "startDate": "2020-06-19",
+      "endDate": "2017-08-01",
+      "summary": "Implemented updates and improvements to a web tool for tracking the organization's floating gardens",
+      "highlights": [
+        "1 of 3 on a team, and the only one with professional development experience"
+      ]
+    },
+    {
       "organization": "Parsippany Volunteer Ambulance Squad",
       "position": "Lieutenant",
       "website": "",
@@ -81,7 +113,7 @@
   "awards": [
     {
       "title": "2013 Recognition Award",
-      "date": "",
+      "date": "2013-06-01",
       "awarder": "Executive Director of eCommerce, Self-Serve, and Products",
       "summary": "Awarded for exceptional work on a large-scale, full-site migration of all data and templates related to https://www.verizonwireless.com/support/ onto Adobe CQ5"
     }
@@ -94,10 +126,9 @@
       "keywords": [
         "HTML",
         "CSS",
-        "SMACSS",
-        "Build tools (Grunt, Gulp, Webpack, Babel)",
+        "Build tools (Webpack, Babel)",
         "Accessibility",
-        "JSPs"
+        "Material UI"
       ]
     },
     {
@@ -105,11 +136,13 @@
       "level": "",
       "keywords": [
         "React",
+        "Hooks",
+        "Node",
+        "Koa",
         "Redux",
         "Angular 1.6",
         "Backbone",
-        "jQuery",
-        "ES6"
+        "jQuery"
       ]
     },
     {
@@ -117,13 +150,10 @@
       "level": "",
       "keywords": [
         "Continuous Integration",
-        "Writing unit and browser tests",
+        "Writing unit, integration/browser, and e2e tests",
+        "TDD",
         "git",
         "Github",
-        "Bug Tracking (Jira, HP Quality Center)",
-        "Agile/SCRUM",
-        "ATG",
-        "Adobe CQ5 (AEM)",
         "SQL"
       ]
     }
